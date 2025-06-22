@@ -1,1 +1,3 @@
-This is my first test file to push to my github account 
+This is my first test file to push to my github account
+
+trying editing a commited file to see difference between staged and untracked files 
