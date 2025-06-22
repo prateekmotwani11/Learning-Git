@@ -1,4 +1,0 @@
-Hi This is my first document file which i created in gitbash 
-
-
-I have changed in manually to see what happens 
