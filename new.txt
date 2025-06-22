@@ -1,1 +1,4 @@
 trying direct file creation with the help of echo command
+
+
+changing few lines to practice 
